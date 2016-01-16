@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OpenDatabaseToCheckStudentImformation</string>
+    <string name="openDatabase">创建/打开数据库</string>
+    <string name="closeDatabase">关闭数据库</string>
+    <string name="add">添加纪录</string>
+    <string name="delete">删除记录</string>
+    <string name="update">修改记录</string>
+    <string name="select">查询记录</string>
+</resources>
