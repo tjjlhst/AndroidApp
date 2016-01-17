@@ -15,6 +15,9 @@ import java.sql.PreparedStatement;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+    * 打开数据库显示学生信息
+    * */
     SQLiteDatabase sld;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
